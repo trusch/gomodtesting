@@ -1,3 +1,3 @@
-module github.com/trusch/gomodtesting
+module github.com/trusch/gomodtesting/v2
 
 go 1.14
