@@ -1,0 +1,6 @@
+github.com/trusch/gomodtesting v1.0.0 h1:zSv7+QbrPrY+Hw4axQZSbm6Fle3LBRew6YonMhoTHek=
+github.com/trusch/gomodtesting v1.0.0/go.mod h1:SOuS+64uQxpMNpobgdlufLfTznIMP0i+Amd8/n0NtgU=
+github.com/trusch/gomodtesting/v2 v2.0.0 h1:bMutOhSPbSre7bJBy8ScuGxumK+WJUfggddXA5iRo5k=
+github.com/trusch/gomodtesting/v2 v2.0.0/go.mod h1:qwvh5GKo1lUR+HvuoQKmBN5rTTnI0/SEqM8pGfQLYyQ=
+github.com/trusch/gomodtesting/v3 v3.0.0 h1:iMLnakfvkxrURPE+cfki1TDhkYzc+DCmPVRiFaJ19pw=
+github.com/trusch/gomodtesting/v3 v3.0.0/go.mod h1:bq3fyhNYuarFnFVhZ8JSOiHhCdYm9klOCAf40G6mFZ0=
