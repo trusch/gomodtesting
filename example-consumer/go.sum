@@ -4,3 +4,5 @@ github.com/trusch/gomodtesting/v2 v2.0.0 h1:bMutOhSPbSre7bJBy8ScuGxumK+WJUfggddX
 github.com/trusch/gomodtesting/v2 v2.0.0/go.mod h1:qwvh5GKo1lUR+HvuoQKmBN5rTTnI0/SEqM8pGfQLYyQ=
 github.com/trusch/gomodtesting/v3 v3.0.0 h1:iMLnakfvkxrURPE+cfki1TDhkYzc+DCmPVRiFaJ19pw=
 github.com/trusch/gomodtesting/v3 v3.0.0/go.mod h1:bq3fyhNYuarFnFVhZ8JSOiHhCdYm9klOCAf40G6mFZ0=
+github.com/trusch/gomodtesting/v3 v3.1.0 h1:ysh38TzWi4CohyN3RuujA9NiPNYPzWOqxz6czj/3iow=
+github.com/trusch/gomodtesting/v3 v3.1.0/go.mod h1:bq3fyhNYuarFnFVhZ8JSOiHhCdYm9klOCAf40G6mFZ0=
